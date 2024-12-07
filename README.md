@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0091-decode-ways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
