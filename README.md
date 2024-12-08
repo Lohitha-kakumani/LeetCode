@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0091-decode-ways) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
