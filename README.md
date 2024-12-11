@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0097-interleaving-string) |
@@ -37,6 +38,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
