@@ -90,4 +90,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
