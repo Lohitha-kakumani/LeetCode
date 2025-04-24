@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0620-not-boring-movies) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
 | ------- |
