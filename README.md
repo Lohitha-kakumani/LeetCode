@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
