@@ -113,6 +113,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
 | ------- |
