@@ -105,6 +105,7 @@
 | [0197-rising-temperature](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1135-customers-who-bought-all-products) |
