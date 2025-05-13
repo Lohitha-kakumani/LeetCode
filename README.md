@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Backtracking
 |  |
@@ -36,6 +37,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0097-interleaving-string) |
+| [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
 | ------- |
