@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
