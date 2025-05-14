@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 ## Database
@@ -158,6 +160,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
