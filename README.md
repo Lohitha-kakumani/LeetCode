@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
 | [0057-insert-interval](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -154,12 +155,14 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
