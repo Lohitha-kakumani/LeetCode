@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Backtracking
@@ -107,6 +108,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
