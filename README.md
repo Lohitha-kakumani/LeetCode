@@ -160,6 +160,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
