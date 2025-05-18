@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
