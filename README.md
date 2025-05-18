@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -130,6 +131,7 @@
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -262,6 +264,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -284,4 +287,5 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
