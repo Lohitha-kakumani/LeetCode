@@ -29,6 +29,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
