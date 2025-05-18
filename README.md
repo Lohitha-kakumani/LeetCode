@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
 |  |
