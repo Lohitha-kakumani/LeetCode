@@ -65,6 +65,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Linked List
