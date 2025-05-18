@@ -123,6 +123,7 @@
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -239,4 +240,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
