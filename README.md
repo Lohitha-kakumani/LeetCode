@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1028-interval-list-intersections](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -79,6 +80,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
+| [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -165,6 +167,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1028-interval-list-intersections](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1028-interval-list-intersections) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -303,4 +306,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1028-interval-list-intersections) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
