@@ -38,6 +38,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -185,6 +186,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
 ## Database
 |  |
