@@ -36,6 +36,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 ## Brainteaser
 |  |
 | ------- |
