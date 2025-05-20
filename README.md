@@ -44,6 +44,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
+| [3639-zero-array-transformation-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Brainteaser
 |  |
 | ------- |
