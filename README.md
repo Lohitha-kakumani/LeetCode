@@ -75,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
@@ -356,4 +357,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
