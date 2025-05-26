@@ -31,6 +31,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
