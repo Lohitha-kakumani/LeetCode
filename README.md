@@ -91,6 +91,7 @@
 | [0344-reverse-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -339,6 +340,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Quickselect
 |  |
