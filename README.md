@@ -46,6 +46,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -368,6 +369,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
+| [1833-find-the-highest-altitude](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3639-zero-array-transformation-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Brainteaser
