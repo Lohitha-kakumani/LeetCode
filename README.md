@@ -172,6 +172,7 @@
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -437,4 +438,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
