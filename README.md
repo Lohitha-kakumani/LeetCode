@@ -96,6 +96,7 @@
 | [0290-word-pattern](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -320,6 +321,7 @@
 | [0290-word-pattern](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -393,6 +395,7 @@
 | [0169-majority-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Prefix Sum
@@ -442,6 +445,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
