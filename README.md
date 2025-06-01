@@ -205,6 +205,7 @@
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
 ## Breadth-First Search
@@ -421,6 +422,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
