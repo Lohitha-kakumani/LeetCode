@@ -162,6 +162,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -193,6 +194,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -210,6 +212,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
