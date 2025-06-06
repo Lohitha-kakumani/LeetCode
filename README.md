@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
@@ -363,6 +364,7 @@
 | [0141-linked-list-cycle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
@@ -418,6 +420,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
