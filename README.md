@@ -161,6 +161,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -193,6 +194,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -211,6 +213,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
