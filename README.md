@@ -173,6 +173,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -195,6 +196,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -220,6 +222,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -522,6 +525,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 ## Graph
 |  |
@@ -543,4 +547,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
