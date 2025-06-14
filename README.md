@@ -100,6 +100,7 @@
 | [0127-word-ladder](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0344-reverse-string) |
@@ -153,6 +154,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
@@ -439,6 +442,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
