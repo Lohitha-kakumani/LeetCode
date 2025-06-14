@@ -274,6 +274,7 @@
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -429,6 +430,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3647-zero-array-transformation-iii) |
