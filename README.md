@@ -273,6 +273,7 @@
 | [0263-ugly-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
