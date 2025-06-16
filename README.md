@@ -27,6 +27,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -270,6 +271,7 @@
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
@@ -487,6 +489,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 ## Counting
 |  |
@@ -519,6 +522,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
