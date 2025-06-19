@@ -20,6 +20,7 @@
 | [0118-pascals-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
