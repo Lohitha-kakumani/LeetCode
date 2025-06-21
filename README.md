@@ -191,6 +191,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -217,6 +218,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -246,6 +248,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -269,6 +272,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
