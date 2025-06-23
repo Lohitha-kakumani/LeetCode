@@ -48,6 +48,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -96,6 +97,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String
 |  |
@@ -139,6 +141,7 @@
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1105-uncrossed-lines](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
