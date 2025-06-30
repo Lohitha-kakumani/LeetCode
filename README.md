@@ -168,6 +168,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -515,6 +516,7 @@
 | [0002-add-two-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0231-power-of-two) |
