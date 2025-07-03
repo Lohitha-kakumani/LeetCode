@@ -69,6 +69,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -499,6 +500,7 @@
 | [0611-valid-triangle-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
