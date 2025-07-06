@@ -129,6 +129,7 @@
 | [0468-validate-ip-address](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0468-validate-ip-address) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0837-most-common-word) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -154,6 +155,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
