@@ -321,6 +321,7 @@
 | [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -585,6 +586,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0319-bulb-switcher) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Line Sweep
 |  |
