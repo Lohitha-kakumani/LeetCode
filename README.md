@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0066-plus-one) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0097-interleaving-string) |
@@ -382,6 +384,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0169-majority-element) |
@@ -459,6 +462,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0127-word-ladder) |
