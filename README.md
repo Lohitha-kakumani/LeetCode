@@ -83,6 +83,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
@@ -165,6 +166,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Linked List
 |  |
 | ------- |
