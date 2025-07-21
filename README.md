@@ -70,6 +70,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -404,6 +405,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
@@ -515,6 +517,7 @@
 | [0611-valid-triangle-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1829-maximum-units-on-a-truck](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
