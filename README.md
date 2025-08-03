@@ -252,6 +252,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [0975-range-sum-of-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1300-critical-connections-in-a-network](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -356,6 +357,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [0945-snakes-and-ladders](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Two Pointers
@@ -620,6 +622,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
 | [3647-zero-array-transformation-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
@@ -656,6 +659,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [1300-critical-connections-in-a-network](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
@@ -683,4 +687,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
