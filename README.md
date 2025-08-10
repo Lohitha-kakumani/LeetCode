@@ -54,6 +54,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0837-most-common-word) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -199,6 +200,7 @@
 | [0143-reorder-list](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -713,4 +715,8 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
