@@ -61,6 +61,7 @@
 | [0945-snakes-and-ladders](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -348,6 +349,7 @@
 | [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -423,6 +425,7 @@
 | [0611-valid-triangle-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -563,6 +566,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -593,6 +597,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -648,6 +653,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3647-zero-array-transformation-iii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
@@ -725,4 +731,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
