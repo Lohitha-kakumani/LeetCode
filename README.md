@@ -45,6 +45,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0463-island-perimeter) |
@@ -172,6 +173,7 @@
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0403-frog-jump) |
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
