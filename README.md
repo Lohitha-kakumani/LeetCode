@@ -170,6 +170,7 @@
 | [0198-house-robber](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -361,6 +362,7 @@
 | [0292-nim-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0390-elimination-game) |
 | [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -770,10 +772,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Nim Game
 |  |
 | ------- |
