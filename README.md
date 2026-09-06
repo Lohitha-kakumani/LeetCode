@@ -165,6 +165,7 @@
 | [0152-maximum-product-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -348,6 +349,7 @@
 | [0231-power-of-two](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0319-bulb-switcher) |
@@ -517,6 +519,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -660,6 +663,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0948-sort-an-array) |
