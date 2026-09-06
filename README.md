@@ -336,6 +336,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0400-nth-digit) |
 | [0450-delete-node-in-a-bst](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0611-valid-triangle-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -364,6 +365,7 @@
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0390-elimination-game) |
+| [0400-nth-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1013-fibonacci-number) |
