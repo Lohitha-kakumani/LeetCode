@@ -119,6 +119,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String
@@ -145,6 +146,7 @@
 | [0383-ransom-note](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0468-validate-ip-address](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0468-validate-ip-address) |
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
@@ -371,6 +373,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1013-fibonacci-number) |
