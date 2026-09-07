@@ -56,6 +56,7 @@
 | [0611-valid-triangle-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0733-flood-fill) |
