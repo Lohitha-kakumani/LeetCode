@@ -153,6 +153,7 @@
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0837-most-common-word) |
+| [0940-distinct-subsequences-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Lohitha-kakumani/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -181,6 +182,7 @@
 | [0647-palindromic-substrings](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Lohitha-kakumani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Lohitha-kakumani/LeetCode/tree/master/1105-uncrossed-lines) |
