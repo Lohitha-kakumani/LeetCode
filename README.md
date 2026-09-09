@@ -98,6 +98,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -398,6 +399,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/Lohitha-kakumani/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Breadth-First Search
