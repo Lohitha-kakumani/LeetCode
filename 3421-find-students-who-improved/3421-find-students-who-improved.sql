@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 WITH first_scores as (
 SELECT student_id, subject, score, exam_date, row_number() over(partition by student_id, subject order by exam_date) as first_test from scores
 ),
